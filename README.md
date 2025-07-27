@@ -1,7 +1,11 @@
 
 # 📊 Benford's Law Financial Analyzer
 
-This project provides a shell-based tool to convert financial PDF reports (such as annual earnings, balance sheets, and income statements) into plain text for analysis using Benford’s Law and other statistical methods.
+This project provides a python and shell-based tool to convert financial PDF reports (such as annual earnings, balance sheets, and income statements) into plain text for analysis using Benford’s Law and other statistical methods.
+
+Here is an example of a company's annual report distribution against benford's distribution.
+
+<img width="1706" height="898" alt="Image" src="https://github.com/user-attachments/assets/847e679e-f404-40e6-ad25-415c92ec13c5" />
 
 ---
 
