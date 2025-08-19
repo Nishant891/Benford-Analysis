@@ -5,7 +5,7 @@ This project provides a python and shell-based tool to convert financial PDF rep
 
 Here is an example of a company's annual report distribution against benford's distribution.
 
-<img width="1706" height="898" alt="Image" src="https://github.com/user-attachments/assets/847e679e-f404-40e6-ad25-415c92ec13c5" />
+<img width="1706" height="898" alt="Image" src="https://github.com/user-attachments/assets/9f2ce12a-93f5-401f-8bf9-b0ecf1bbac93" />
 
 ---
 
